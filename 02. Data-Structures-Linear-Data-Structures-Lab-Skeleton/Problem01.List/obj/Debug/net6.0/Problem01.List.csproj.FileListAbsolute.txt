@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Data Structures Fundamentals with C#\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\bin\Debug\net6.0\Problem01.List.deps.json
+C:\Users\HP\source\repos\Data Structures Fundamentals with C#\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\bin\Debug\net6.0\Problem01.List.dll
+C:\Users\HP\source\repos\Data Structures Fundamentals with C#\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\bin\Debug\net6.0\Problem01.List.pdb
+C:\Users\HP\source\repos\Data Structures Fundamentals with C#\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\net6.0\Problem01.List.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Data Structures Fundamentals with C#\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\net6.0\Problem01.List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Data Structures Fundamentals with C#\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\net6.0\Problem01.List.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Data Structures Fundamentals with C#\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\net6.0\Problem01.List.AssemblyInfo.cs
+C:\Users\HP\source\repos\Data Structures Fundamentals with C#\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\net6.0\Problem01.List.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Data Structures Fundamentals with C#\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\net6.0\Problem01.List.dll
+C:\Users\HP\source\repos\Data Structures Fundamentals with C#\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\net6.0\refint\Problem01.List.dll
+C:\Users\HP\source\repos\Data Structures Fundamentals with C#\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\net6.0\Problem01.List.pdb
+C:\Users\HP\source\repos\Data Structures Fundamentals with C#\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\Problem01.List\obj\Debug\net6.0\ref\Problem01.List.dll

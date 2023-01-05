@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\LiveDemo\\LiveDemo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\LiveDemo\\LiveDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\LiveDemo\\LiveDemo.csproj",
+        "projectName": "LiveDemo",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\LiveDemo\\LiveDemo.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\LiveDemo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List\\Problem01.List.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List\\Problem01.List.csproj"
+              },
+              "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem02.Stack\\Problem02.Stack.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem02.Stack\\Problem02.Stack.csproj"
+              },
+              "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue\\Problem03.Queue.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue\\Problem03.Queue.csproj"
+              },
+              "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj": {
+                "projectPath": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List\\Problem01.List.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List\\Problem01.List.csproj",
+        "projectName": "Problem01.List",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List\\Problem01.List.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem01.List\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem02.Stack\\Problem02.Stack.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem02.Stack\\Problem02.Stack.csproj",
+        "projectName": "Problem02.Stack",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem02.Stack\\Problem02.Stack.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem02.Stack\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue\\Problem03.Queue.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue\\Problem03.Queue.csproj",
+        "projectName": "Problem03.Queue",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue\\Problem03.Queue.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem03.Queue\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj",
+        "projectName": "Problem04.SinglyLinkedList",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\Problem04.SinglyLinkedList.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\Data Structures Fundamentals with C#\\02. Data-Structures-Linear-Data-Structures-Lab-Skeleton\\Problem04.SinglyLinkedList\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
